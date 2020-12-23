@@ -1,0 +1,23 @@
+Titulo                              Anno
+Avatar                              2012
+2001: A spacial odisey              1968
+The martian                         2015
+Contact                             1997
+Blade runner                        1982
+Star wars                           1977
+Alien                               1978
+Close encounters of the third kind  1977
+Mad Max: Fury Road                  2015
+Terminator 2                        1991
+Gravity                             2013
+Jurassic Park                       1993
+Back to the future                  1985
+Solaris                             1972
+The matrix                          1999
+Robocop                             1987
+ET                                  1982
+The fifth element                   1997
+A clockwork orange                  1971
+Enemy mine                          1985
+The man from Earth                  2007
+Star trek: the movie                1979
